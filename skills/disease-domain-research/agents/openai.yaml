@@ -1,0 +1,5 @@
+# Copyright (c) 2026 NanaTang. See ../LICENSE.
+interface:
+  display_name: "Disease Domain Research"
+  short_description: "Build phased, evidence-backed disease landscapes"
+  default_prompt: "Use $disease-domain-research to build a China-led disease domain review; start with the requested phase and preserve source links, definitions, and uncertainty for every number."

@@ -1,0 +1,17 @@
+{
+  ".gitattributes": "adb40d2a405382cc401e5da8be21a60d4e4d1d2da3bce5ba5c28a24bf751871a",
+  ".gitignore": "21dff9415319901c18dd9b6659d619dbe1acbb4ba69d9e07945edaf2ffc281b3",
+  "ATTRIBUTION.md": "068c3a8e70175083bfa059b5fe549da8c7b704d8179468ebd1ab4dd62adf18dd",
+  "LICENSE": "bd73254b7332be7a197420dae6d6971d90bf98e29f88386c63dae9b414dde185",
+  "README.md": "d240cfa353b8281b0e0306fd041ef1a9e2da4e0c38c1c48f6ee2d077d6235b0d",
+  "RELEASE_CHECK.md": "ad697833b126a569994e655d2411d75dad11975edd1e524140d8274c3c7c754b",
+  "skills/disease-domain-research/LICENSE": "bd73254b7332be7a197420dae6d6971d90bf98e29f88386c63dae9b414dde185",
+  "skills/disease-domain-research/SKILL.md": "0397d15bc74e3ae05a89bf6d7c8cac18ce29b9f0018995278a6b15f737156906",
+  "skills/disease-domain-research/USAGE.md": "04a1058864c327ee013e8986f9955f36bc60cf9939ac49f2196abcf95f073562",
+  "skills/disease-domain-research/agents/openai.yaml": "d1d389844585b00d793a5a148695470047ef6eab76b411bc911419a5c40e48e5",
+  "skills/disease-domain-research/references/evidence-and-delivery.md": "4ac733fd4f0f30054062965a843e77460cb0c5be7414c02f5f8f543490e7b019",
+  "skills/disease-domain-research/references/phase-1-primer.md": "a0a66da8a35cf5556a29cfb2ec51b3da89271f3c202f839e4d527089b74bec15",
+  "skills/disease-domain-research/references/phase-2-treatment.md": "324b2b5cc3fa52c52785b41ace3e26b878c538d317bee156efe35bb075d477e6",
+  "skills/disease-domain-research/references/phase-3-market.md": "07043e6c04bf6a44e48b48336c92a9e2efb2f13bccab7d44adeb01f45276fe5e",
+  "skills/disease-domain-research/references/phase-4-pipeline.md": "b412dcc7696c644f72d4bf72932684329f65eab5b7a4f732ff366ed62f0e231d"
+}
