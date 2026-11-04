@@ -1,0 +1,5 @@
+# Copyright (c) 2026 NanaTang. See ../LICENSE.
+interface:
+  display_name: "Discussion Guide / 访谈提纲"
+  short_description: "Design neutral research interviews with timing, probes, and branching"
+  default_prompt: "使用 $discussion-guide，根据研究目的和受访对象设计访谈提纲，输出 Markdown 或独立 HTML。"

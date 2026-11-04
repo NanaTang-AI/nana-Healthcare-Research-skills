@@ -1,4 +1,4 @@
-# Disease Domain Research · 疾病领域研究
+# NanaTang Healthcare Research Skills · 医疗研究工具
 
 **An evidence-focused AI skill for understanding diseases, mapping treatment pathways, sizing patient populations, and assessing pipelines.**
 **一个以证据为基础的 AI 研究 skill，帮助理解疾病、梳理诊疗路径、估算患者规模并分析研发管线。**
@@ -176,3 +176,35 @@ The full [LICENSE](LICENSE) governs. This is source sharing under a custom restr
 
 **Copyright (c) 2026 NanaTang.**
 [Author / 作者](https://github.com/NanaTang-AI) · [Attribution / 署名说明](ATTRIBUTION.md) · [Release checks / 发布检查](RELEASE_CHECK.md)
+
+## Discussion Guide · 访谈提纲
+
+作者 / Author: **NanaTang**
+
+根据研究目的、受访对象和关键决策，设计中性、连贯、时间可执行的定性访谈提纲。支持主问题、追问、经验分支、假设验证和材料测试，输出 Markdown 或独立 HTML，无需 Word 模板。
+
+Design qualitative interview guides around research objectives, respondent experience, and key decisions. Includes neutral questions, probes, branching, hypothesis testing, stimulus sequencing, and realistic timing. Outputs Markdown or standalone HTML without a Word template.
+
+### 安装 / Install
+
+在 Codex 中发送 / Send in Codex:
+
+```text
+$skill-installer install https://github.com/NanaTang-AI/nana-Healthcare-Research-skills/tree/main/skills/discussion-guide
+```
+
+也可下载仓库，将完整的 `skills/discussion-guide/` 文件夹安装到当前工具支持的 skills 目录。/ Alternatively, download the repository and install the complete skill folder using your host tool's supported skill directory.
+
+### 示例 / Examples
+
+```text
+使用 $discussion-guide，为企业协作工具采用研究设计60分钟访谈提纲。受访者为业务负责人，目标是了解选择依据、实际采用障碍与改变行为的条件。输出Markdown，区分必问、追问、内部假设和条件分支。
+```
+
+```text
+Use $discussion-guide to design a 60-minute interview with business leaders about workplace collaboration-tool adoption. Explore selection criteria, adoption barriers, and conditions for behavior change. Output standalone HTML with core questions, optional probes, internal hypotheses, and branching.
+```
+
+[Skill instructions / 技能说明](skills/discussion-guide/SKILL.md) · [Question design / 问法与假设](skills/discussion-guide/references/question-design.md) · [Optional modules / 条件模块](skills/discussion-guide/references/conditional-modules.md)
+
+使用许可与仓库一致：允许内部工作使用，未经授权不得转卖或收费包装 skill 及改写版本。/ The repository license applies: internal work use is permitted; resale or paid packaging of the skill or adaptations requires permission.

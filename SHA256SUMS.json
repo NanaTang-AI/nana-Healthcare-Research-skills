@@ -3,8 +3,8 @@
   ".gitignore": "21dff9415319901c18dd9b6659d619dbe1acbb4ba69d9e07945edaf2ffc281b3",
   "ATTRIBUTION.md": "068c3a8e70175083bfa059b5fe549da8c7b704d8179468ebd1ab4dd62adf18dd",
   "LICENSE": "bd73254b7332be7a197420dae6d6971d90bf98e29f88386c63dae9b414dde185",
-  "README.md": "b44f235ffd12d96dcae49b6be4460bcc78d7d8be702fecc051a4d7960512b37e",
-  "RELEASE_CHECK.md": "ad697833b126a569994e655d2411d75dad11975edd1e524140d8274c3c7c754b",
+  "README.md": "74bce27d18acae24b413c79b870d37cbd9948d1ec8be90877b9e6235fb61afc0",
+  "RELEASE_CHECK.md": "563b4c515dd4cdec5906a18eeedddd2e279e049234cb379746f1201062ebe8a9",
   "skills/disease-domain-research/LICENSE": "bd73254b7332be7a197420dae6d6971d90bf98e29f88386c63dae9b414dde185",
   "skills/disease-domain-research/SKILL.md": "0397d15bc74e3ae05a89bf6d7c8cac18ce29b9f0018995278a6b15f737156906",
   "skills/disease-domain-research/USAGE.md": "04a1058864c327ee013e8986f9955f36bc60cf9939ac49f2196abcf95f073562",
@@ -13,5 +13,10 @@
   "skills/disease-domain-research/references/phase-1-primer.md": "a0a66da8a35cf5556a29cfb2ec51b3da89271f3c202f839e4d527089b74bec15",
   "skills/disease-domain-research/references/phase-2-treatment.md": "324b2b5cc3fa52c52785b41ace3e26b878c538d317bee156efe35bb075d477e6",
   "skills/disease-domain-research/references/phase-3-market.md": "07043e6c04bf6a44e48b48336c92a9e2efb2f13bccab7d44adeb01f45276fe5e",
-  "skills/disease-domain-research/references/phase-4-pipeline.md": "b412dcc7696c644f72d4bf72932684329f65eab5b7a4f732ff366ed62f0e231d"
+  "skills/disease-domain-research/references/phase-4-pipeline.md": "b412dcc7696c644f72d4bf72932684329f65eab5b7a4f732ff366ed62f0e231d",
+  "skills/discussion-guide/SKILL.md": "a3645ea2b483ae07c27352e63e64ea5273801e7b150daa13a54a407ab3988331",
+  "skills/discussion-guide/LICENSE": "bd73254b7332be7a197420dae6d6971d90bf98e29f88386c63dae9b414dde185",
+  "skills/discussion-guide/agents/openai.yaml": "cd5d2527a36d63a2ce554b4a38c819d349ecef576ab32bdfc50b74b95ca49dbe",
+  "skills/discussion-guide/references/question-design.md": "32bfe97579d25d87149e02fcd6890d7f57dec97bc66da2c883f3634f95c11e51",
+  "skills/discussion-guide/references/conditional-modules.md": "63e472378b4275ed734ac286ae5d77382ee0d48ccbe7c5885297e14c3c26e2cb"
 }
